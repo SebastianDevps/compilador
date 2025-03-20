@@ -1,0 +1,8 @@
+{ Este es un programa TINY que usa strings }
+write "Hola Mundo!";
+x := 42;
+write "El valor de x es: ";
+write x
+
+
+

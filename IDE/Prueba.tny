@@ -1,0 +1,8 @@
+{ Este es un programa TINY simple }
+x := 10;        { asigna valor a x }
+y := 5;         { asigna valor a y }
+z := x * y;     { multiplica x por y }
+write z         { muestra el resultado }
+
+
+
