@@ -1,5 +1,5 @@
 * Compilación TINY a código TM
-* File: D:/INGENIERIA INFORMATICA/Teoria de lenguajes y compiladores/5_SEMESTRE/CompiladorTiny/IDE/prueba_string.tm
+* File: D:\INGENIERIA INFORMATICA\Teoria de lenguajes y compiladores\5_SEMESTRE\CompiladorTiny\IDE\prueba_string.tm
 * Preludio estándar:
   0:     LD  6,0(0)	cargar maxaddress desde localización 0
   1:     ST  0,0(0)	clear localización 0
@@ -68,7 +68,37 @@
  63:    OUT  0,0,0	escribir carácter
  64:    LDC  0,10(0)	cargar salto de línea
  65:    OUT  0,0,0	escribir salto de línea
- 66:     LD  0,0(5)	cargar id value
- 67:    OUT  0,0,0	escribir ac
+ 66:    LDC  0,72(0)	cargar carácter
+ 67:    OUT  0,0,0	escribir carácter
+ 68:    LDC  0,111(0)	cargar carácter
+ 69:    OUT  0,0,0	escribir carácter
+ 70:    LDC  0,108(0)	cargar carácter
+ 71:    OUT  0,0,0	escribir carácter
+ 72:    LDC  0,97(0)	cargar carácter
+ 73:    OUT  0,0,0	escribir carácter
+ 74:    LDC  0,32(0)	cargar carácter
+ 75:    OUT  0,0,0	escribir carácter
+ 76:    LDC  0,113(0)	cargar carácter
+ 77:    OUT  0,0,0	escribir carácter
+ 78:    LDC  0,117(0)	cargar carácter
+ 79:    OUT  0,0,0	escribir carácter
+ 80:    LDC  0,101(0)	cargar carácter
+ 81:    OUT  0,0,0	escribir carácter
+ 82:    LDC  0,32(0)	cargar carácter
+ 83:    OUT  0,0,0	escribir carácter
+ 84:    LDC  0,109(0)	cargar carácter
+ 85:    OUT  0,0,0	escribir carácter
+ 86:    LDC  0,97(0)	cargar carácter
+ 87:    OUT  0,0,0	escribir carácter
+ 88:    LDC  0,115(0)	cargar carácter
+ 89:    OUT  0,0,0	escribir carácter
+ 90:    LDC  0,115(0)	cargar carácter
+ 91:    OUT  0,0,0	escribir carácter
+ 92:    LDC  0,115(0)	cargar carácter
+ 93:    OUT  0,0,0	escribir carácter
+ 94:    LDC  0,115(0)	cargar carácter
+ 95:    OUT  0,0,0	escribir carácter
+ 96:    LDC  0,10(0)	cargar salto de línea
+ 97:    OUT  0,0,0	escribir salto de línea
 * End of execution.
- 68:   HALT  0,0,0	
+ 98:   HALT  0,0,0	

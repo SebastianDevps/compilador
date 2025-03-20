@@ -2,7 +2,10 @@
 write "Hola Mundo!";
 x := 42;
 write "El valor de x es: ";
-write x
+write "Hola que massss"
+
+
+
 
 
 
